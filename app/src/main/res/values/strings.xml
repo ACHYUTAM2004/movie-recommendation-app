@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string-array name="release_date_sort_options">
+        <item>Newest First</item>
+        <item>Oldest First</item>
+    </string-array>
+
+    <string-array name="rating_sort_options">
+        <item>Highest to Lowest</item>
+        <item>Lowest to Highest</item>
+    </string-array>
+
+
+</resources>
